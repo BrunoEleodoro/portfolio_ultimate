@@ -2,4 +2,4 @@
 
 A new version
 
-<a href="http://brunoeleodoro.com" target="_blank">
+<a href="http://brunoeleodoro.com" target="_blank">http://brunoeleodoro.com</a>
